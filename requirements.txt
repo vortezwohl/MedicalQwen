@@ -3,3 +3,4 @@ peft>=0.13.0
 transformers>=4.45.2
 sentence-transformers>=3.1.1
 torch>=2.4.1
+sympy>=1.13.3
