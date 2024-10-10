@@ -4,3 +4,4 @@ import transformers
 import sentence_transformers
 import torch
 import sympy
+import jupyter
