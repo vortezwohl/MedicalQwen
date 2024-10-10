@@ -1,1 +1,2 @@
+cache/* filter=lfs
 cache/**/* filter=lfs diff=lfs merge=lfs -text
