@@ -1,4 +1,5 @@
 .venv
 *.xml
 *.iml
+.idea
 results
